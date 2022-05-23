@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\bin\Debug\net6.0\Chlab2.exe
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\bin\Debug\net6.0\Chlab2.deps.json
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\bin\Debug\net6.0\Chlab2.runtimeconfig.json
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\bin\Debug\net6.0\Chlab2.dll
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\bin\Debug\net6.0\Chlab2.pdb
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\obj\Debug\net6.0\Chlab2.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\obj\Debug\net6.0\Chlab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\obj\Debug\net6.0\Chlab2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\obj\Debug\net6.0\Chlab2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\obj\Debug\net6.0\Chlab2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\obj\Debug\net6.0\Chlab2.dll
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\obj\Debug\net6.0\refint\Chlab2.dll
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\obj\Debug\net6.0\Chlab2.pdb
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\obj\Debug\net6.0\Chlab2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Chlab2\Chlab2\obj\Debug\net6.0\ref\Chlab2.dll
